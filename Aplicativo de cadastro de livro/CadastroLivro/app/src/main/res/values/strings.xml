@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CadastroLivro</string>
+    <string name="cadastro_de_livro">Cadastro de Livro</string>
+    <string name="titulo_livro">Título do livro</string>
+    <string name="autor_livro">Autor do livro</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+    <string name="mensagem_sucesso">Livro cadastrado com sucesso!</string>
+    <string name="titulo_livro_formatado">Título do livro: %s</string>
+    <string name="autor_livro_formatado">Autor do livro: %s</string>
+    <string name="botao_voltar">Voltar para a tela de cadastro</string>
+</resources>
