@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PrimeiraLeiOhm</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="edt_valor1">Valor 1</string>
+    <string name="edt_valor2">Valor 2</string>
+    <string name="rb_corrente">Corrente (Amperes)</string>
+    <string name="rb_resistencia">Resistência (Ohms)</string>
+    <string name="rb_tensao">Tensão (Volts)</string>
+    <string name="txv_selecao_calculo">Selecione o cálculo que deseja fazer:</string>
+    <string name="txv_titulo_app">Calculadora da primeira lei de Ohm</string>
+    <string name="txv_resultado">Resultado: %1$s</string>
+</resources>

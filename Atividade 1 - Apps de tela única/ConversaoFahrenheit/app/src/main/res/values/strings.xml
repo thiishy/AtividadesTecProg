@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ConversaoFahrenheit</string>
+    <string name="edt_nome_usuario">Insira seu nome de usuário</string>
+    <string name="edt_idade">Insira sua idade</string>
+    <string name="btn_confirmar">Confirmar</string>
+    <string name="txv_confirmacao">Bem-vindo(a), %1$s! Sua idade é %2$s</string>
+    <string name="btn_converter">Converter</string>
+    <string name="edt_graus_celsius">Insira os graus em Celsius</string>
+    <string name="txv_conversao">Resultado: %1$s</string>
+</resources>
