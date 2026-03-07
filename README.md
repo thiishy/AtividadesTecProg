@@ -1,6 +1,6 @@
-# 🧠 Atividades de Técnicas de Programação
+# 🧠 Atividades de Técnicas de Programação e Programação para Dispositivos Móveis
 
-Algumas atividades práticas que desenvolvi nas aulas de Técnicas de Programação, ministradas pelo professor <a href="https://www.linkedin.com/in/alessandrofpl/">Alessandro Lima</a>.
+Algumas atividades práticas que desenvolvi nas aulas de "Técnicas de Programação I e II" e "Programação para Dispositivos Móveis I", ministradas pelo professor <a href="https://www.linkedin.com/in/alessandrofpl/">Alessandro Lima</a>.
 
 <br>
 
